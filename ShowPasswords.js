@@ -4,8 +4,7 @@
 // @description Show passwords while typing
 // @version     1
 // @grant       none
-// @match       *://*/*
-// @include     *://*/*
+// @include     *
 // ==/UserScript==
 (function(){
   function getCaretPosition(ctrl){
