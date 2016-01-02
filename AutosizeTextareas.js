@@ -4,6 +4,7 @@
 // @description Automatically expand Textareas to fit their content
 // @version     1
 // @grant       none
+// @include     *
 // ==/UserScript==
 
 /*!
