@@ -1,6 +1,7 @@
 // ==UserScript==
-// @name        facebook
+// @name        Facebook Messages
 // @namespace   n-a-m-e
+// @description Increase size of Textarea for messages
 // @include     https://m.facebook.com/messages/read/*
 // @version     1
 // @grant       none
