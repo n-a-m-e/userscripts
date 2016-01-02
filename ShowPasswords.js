@@ -5,6 +5,7 @@
 // @version     1
 // @grant       none
 // @match       *://*/*
+// @include       *://*/*
 // ==/UserScript==
 (function(){
   function getCaretPosition(ctrl){
